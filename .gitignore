@@ -1,0 +1,9 @@
+/target
+
+# Runtime config files
+/salle-bot.toml
+/DISCORD_TOKEN
+
+# IDE
+/.idea
+/salle-bot.iml
